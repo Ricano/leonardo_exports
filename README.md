@@ -2,7 +2,7 @@
 
 ---
 ## Português - 🇵🇹 
-<details>
+<details open>
 <summary>📝</summary>
 
 <img src="./sword_icon.png" alt="wooden sword" width="16">
