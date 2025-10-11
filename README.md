@@ -7,9 +7,9 @@
 
 <img src="./sword_icon.png" alt="wooden sword" width="16">
 
-**Leonardo 2022** foi criado como prenda para o 5º aniversário do meu filho.
+#### **Leonardo 2022** foi criado como prenda para o 5º aniversário do meu filho.
 
-É um jogo de plataformas, em 2D, com o Leonardo no papel principal.
+#### É um jogo de plataformas, em 2D, com o Leonardo no papel principal.
 
 Jogando, é possível:
 - apanhar moedas;  
