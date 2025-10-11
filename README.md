@@ -17,7 +17,7 @@ Jogando, é possível:
 - pilotar um carro;  
 - chegar ao _**boss**_ final e, eventualmente, derrotá-lo.  
 
-A configuração do teclado para PC está disponível em [Teclas para PC](https://github.com/Ricano/leonardo_exports/new/main?filename=README.md#%EF%B8%8F-teclas-para-pc).  
+A configuração do teclado para PC está disponível mais abaixo, na secção **Teclas para PC**.  
 No <i>Android</i>®, os controlos aparecem no ecrã.
 
 ---
@@ -80,7 +80,7 @@ While playing, you can:
 - reach the **final boss** and, eventually, defeat it.  
 
 
-The keyboard configuration for PC is available at [PC Controls](https://github.com/Ricano/leonardo_exports/new/main?filename=README.md#%EF%B8%8F-teclas-para-pc).  
+The keyboard configuration for PC is available further down, at **PC Controls**.  
 On <i>Android</i>®, the controls appear on screen.
 
 
