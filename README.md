@@ -18,7 +18,7 @@ Jogando, é possível:
 - chegar ao _**boss**_ final e, eventualmente, derrotá-lo.  
 
 A configuração do teclado para PC está disponível mais abaixo, na secção **Teclas para PC**.  
-No <i>Android</i>®, os controlos aparecem no ecrã.
+Em <i>Android</i>®, os controlos aparecem no ecrã.
 
 ---
 
