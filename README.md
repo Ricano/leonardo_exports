@@ -69,7 +69,7 @@ No Android, os botões aparecem no ecrã.
 
 <img src="./sword_icon.png" alt="wooden sword" width="16">
 
-**Leonardo 2022** was created as a birthday gift for my son’s 5th birthday.
+**Leonardo 2022** was created as a gift for my son’s 5th birthday.
 
 It is a 2D platformer with Leonardo as the main character.
 
