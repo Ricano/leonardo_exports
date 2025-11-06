@@ -1,7 +1,7 @@
 # Leonardo 2022  <img src="./sword_icon.png" alt="wooden sword" width="40">
 
 ---
-## Português - 🇵🇹 
+## Instruções em Português - 🇵🇹 
 <details>
 <summary>📝</summary>
 
@@ -63,7 +63,7 @@ No Android, os botões aparecem no ecrã.
 </details>
 
 ---
-## English - 🇬🇧
+## English Instructions- 🇬🇧
 <details>
 <summary>📝</summary>
 
