@@ -28,7 +28,7 @@ Em <i>Android</i>®, os controlos aparecem no ecrã.
 2. Abre e instala o ficheiro.  
 3. O jogo deverá ficar disponível para ser iniciado como qualquer outra aplicação.  
 
-**Aviso**
+**Aviso:**  
 Poderá ser necessário ativar a opção **Instalar a partir de fontes desconhecidas**, em *Definições → Segurança* e/ou autorizar a instalação do jogo. 
  
 
