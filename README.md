@@ -25,13 +25,17 @@ Em <i>Android</i>®, os controlos aparecem no ecrã.
 ### 📱 Instalação no <i>smartphone</i> (<i>Android</i>®)
 
 1. Transfere o ficheiro [Leonardo 2022 para Android](https://raw.githubusercontent.com/Ricano/exports/refs/heads/main/builds/android/Leonardo2022_0.3.8.apk).  
-2. Abre e instala o ficheiro (poderá ser necessário ativar a opção **Instalar a partir de fontes desconhecidas**, em *Definições → Segurança*).  
+2. Abre e instala o ficheiro.  
 3. O jogo deverá ficar disponível para ser iniciado como qualquer outra aplicação.  
+
+**Aviso**
+Poderá ser necessário ativar a opção **Instalar a partir de fontes desconhecidas**, em *Definições → Segurança* e/ou autorizar a instalação do jogo. 
+ 
 
 **Nota:**  
 Esta versão Android funcionou em todos os dispositivos testados, mas **não existe garantia** de compatibilidade total.  
 O desempenho do jogo poderá não ser ótimo em dispositivos mais antigos.  
-Não estão previstas quaisquer atualizações.
+De momento, não estão previstas quaisquer atualizações.
 
 ---
 
@@ -95,7 +99,7 @@ On <i>Android</i>®, the controls appear on screen.
 **Note:**  
 This Android version worked on all tested devices, but there is **no guarantee** of full compatibility.  
 Game performance may not be optimal on older devices.  
-No updates are planned.
+At the moment, no updates are planned.
 
 ---
 
@@ -107,7 +111,7 @@ No updates are planned.
 4. Windows Defender may show a warning — select **Run anyway**.  
 
 **Note:**  
-The _Windows_® version ran correctly on **Win10** and **Win11** machines, but there is **no guarantee** of full compatibility.
+The Windows® version ran correctly on **Win10** and **Win11** machines, but there is **no guarantee** of full compatibility.
 
 ---
 
